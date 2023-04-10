@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Abishek2k2/movie_search_API/static/css/main.334bdeb1.css",
+    "main.js": "/Abishek2k2/movie_search_API/static/js/main.6046b2eb.js",
+    "index.html": "/Abishek2k2/movie_search_API/index.html",
+    "static/media/search.svg": "/Abishek2k2/movie_search_API/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.334bdeb1.css.map": "/Abishek2k2/movie_search_API/static/css/main.334bdeb1.css.map",
+    "main.6046b2eb.js.map": "/Abishek2k2/movie_search_API/static/js/main.6046b2eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.6046b2eb.js"
+  ]
+}
